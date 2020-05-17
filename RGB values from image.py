@@ -2,7 +2,7 @@
 import matplotlib.image as img
 
 # Read batman image and print dimensions
-image = img.imread('image.jpg')
+image = img.imread('rose.jpg')
 print(image.shape)
 
 # Store RGB values of all pixels in lists r, g and b
